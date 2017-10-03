@@ -1,0 +1,20 @@
+
+/*Setting decent spacing around the text content so it looks neat*/
+.mainDiv{
+	margin: 200px auto
+}
+
+/*Text formatting properties inside the span tag*/
+span{
+	font-size: 20px;
+	color: #6EA986;
+	font-weight: bold;
+}
+
+/*How the formatting changes when user hovers over the text*/
+.content:hover{
+	color: #A96E91;
+	font-size: 30px;
+	font-weight: bold;
+	cursor: pointer;
+}
